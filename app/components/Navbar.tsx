@@ -9,6 +9,9 @@ const Navbar: React.FC = () => {
           <Link href="/" className="text-white hover:text-gray-300">Home</Link>
         </li>
         <li>
+          <Link href="/inputdata" className="text-white hover:text-gray-300">input</Link>
+        </li>
+        <li>
           <Link href="/class-notes" className="text-white hover:text-gray-300">Class Notes</Link>
         </li>
         <li>
